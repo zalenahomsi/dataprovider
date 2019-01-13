@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63837" started-at="2019-01-13T18:42:11Z" finished-at="2019-01-13T18:43:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63837" started-at="2019-01-13T18:42:11Z" finished-at="2019-01-13T18:43:14Z">
+      <class name="com.techfios.qa.testcase.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.techfios.qa.testcase.LoginTest@5442a311]" name="setup" is-config="true" duration-ms="24803" started-at="2019-01-13T18:42:11Z" finished-at="2019-01-13T18:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitle()[pri:1, instance:com.techfios.qa.testcase.LoginTest@5442a311]" name="loginPageTitle" duration-ms="37" started-at="2019-01-13T18:42:35Z" finished-at="2019-01-13T18:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.techfios.qa.testcase.LoginTest@5442a311]" name="teardown" is-config="true" duration-ms="1335" started-at="2019-01-13T18:42:36Z" finished-at="2019-01-13T18:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.techfios.qa.testcase.LoginTest@5442a311]" name="setup" is-config="true" duration-ms="12184" started-at="2019-01-13T18:42:37Z" finished-at="2019-01-13T18:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginpageOpened()[pri:2, instance:com.techfios.qa.testcase.LoginTest@5442a311]" name="loginpageOpened" duration-ms="87" started-at="2019-01-13T18:42:49Z" finished-at="2019-01-13T18:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageOpened -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.techfios.qa.testcase.LoginTest@5442a311]" name="teardown" is-config="true" duration-ms="963" started-at="2019-01-13T18:42:49Z" finished-at="2019-01-13T18:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.techfios.qa.testcase.LoginTest@5442a311]" name="setup" is-config="true" duration-ms="16144" started-at="2019-01-13T18:42:50Z" finished-at="2019-01-13T18:43:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="filloutloginField()[pri:3, instance:com.techfios.qa.testcase.LoginTest@5442a311]" name="filloutloginField" duration-ms="7213" started-at="2019-01-13T18:43:06Z" finished-at="2019-01-13T18:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filloutloginField -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.techfios.qa.testcase.LoginTest@5442a311]" name="teardown" is-config="true" duration-ms="1012" started-at="2019-01-13T18:43:13Z" finished-at="2019-01-13T18:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.techfios.qa.testcase.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
